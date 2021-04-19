@@ -4,7 +4,7 @@ Improving the performance of original NeRF for a given network and given number 
 
 
 Original reconstruction with loss layer augmentation
-![](videos/lego_l.mp4)
+![](videos/lego_l.gif)
 
 Original Reconstruction
  
